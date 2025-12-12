@@ -3,3 +3,4 @@ nevestiana matka
 zenichov otec
 zenichova matka
 zenichov brat
+Syn svedkov Janko

@@ -2,3 +2,4 @@ vino
 kofola
 dzus
 sestra
+pivo
